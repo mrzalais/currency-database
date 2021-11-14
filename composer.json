@@ -1,4 +1,5 @@
 {
+mrzalais-currency-import-1
     "name": "mrzalais",
     "autoload": {
         "psr-4": {
